@@ -2,6 +2,6 @@ go 1.24.1
 
 use (
 	./
-	./moduleA
-	./moduleB
+	./module1
+	./module2
 )

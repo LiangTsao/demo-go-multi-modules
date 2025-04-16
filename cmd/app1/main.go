@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	pkgA "github.com/liangtsao/demo-go-multi-modules/moduleA/pkg"
-	pkgB "github.com/liangtsao/demo-go-multi-modules/moduleB/pkg"
+	pkgA "github.com/liangtsao/demo-go-multi-modules/module1/pkg"
+	pkgB "github.com/liangtsao/demo-go-multi-modules/module2/pkg"
 )
 
 func main() {
