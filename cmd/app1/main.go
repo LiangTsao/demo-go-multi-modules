@@ -12,5 +12,5 @@ func main() {
 	fmt.Println("10 - 5 =", calc.Subtract(5, 1))
 
 	formatter := pkgB.NewStringFormatter()
-	fmt.Println(formatter.UpperCase("multi-module demo"))
+	fmt.Println(formatter.UpperCase("multi-module sadasdada demo"))
 }
